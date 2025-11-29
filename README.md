@@ -7,6 +7,9 @@
 
 4. ☠️ NFT: Activo digital único en blockchain.
 
-5. 🦁Cable 2 en 1 / 3 en 1
-Cables con múltiples tipos de conectores (USB-C, Lightning, Micro USB).
+5. 🦁 Cable 2 en 1 / 3 en 1: Cables con múltiples tipos de conectores (USB-C, Lightning, Micro USB).
+
+6. 🦍 Nube: Entrega bajo demanda de servicios de computación a través de Internet, como servidores, almacenamiento, bases de datos y software, en lugar de depender de una infraestructura física local.
+
+7. 🤑 Kubernetes: Plataforma de código abierto, creada originalmente por Google, que automatiza el despliegue, escalado y gestión de aplicaciones en contenedores.
 
